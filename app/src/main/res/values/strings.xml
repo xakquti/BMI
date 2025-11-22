@@ -2,6 +2,6 @@
     <string name="app_name">BMI</string>
     <string name="bmi">Индекс массы тела</string>
     <string name="weight">Вec, кг:</string>
-    <string name="height">Рост, см</string>
+    <string name="height">Рост, см:</string>
     <string name="calculate">Рассчитать</string>
 </resources>
